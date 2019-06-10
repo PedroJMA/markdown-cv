@@ -1,14 +1,10 @@
 ---
 layout: cv
-title: Pedro-José Martínez-Alanis - CV
+title: Pedro-José Martínez-Alanis
 ---
 
 # Pedro-José Martínez-Alanis
 Economist.
-
-<div id="webaddress">
-<a href="pj.martinez.alanis@gmail.com">pj.martinez.alanis@gmail.com</a>
-</div>
 
 
 ## Currently

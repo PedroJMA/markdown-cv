@@ -1,3 +1,12 @@
+
+<!--
+cd /Users/PedroJMA/Documents/quant-econ/github/markdown-cv/
+
+jekyll serve
+
+browse: http://127.0.0.1:4000 
+-->
+
 markdown-cv
 ===========
 
